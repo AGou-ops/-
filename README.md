@@ -1,6 +1,6 @@
 ## 我的个人博客
 
-**临时更换域名为 agou-ops.cn**
+**临时更换域名为 [agou-ops.cn](https://agou-ops.cn)**
 
 主页地址：
 * https://agou-ops.top
